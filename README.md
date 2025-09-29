@@ -9,3 +9,12 @@ See some examples of figures in: https://www.overleaf.com/read/mkzqxcgfyhcz#141b
 
 ### Table Guide
 See some examples of tables in: https://www.overleaf.com/read/mrwqyqryhsxg#dd3e90
+
+
+### Some Example reports that you might be interested:
+
+#1 https://www.overleaf.com/read/kpdxnbbvqcxq#1a68c7
+
+#2 https://www.overleaf.com/read/pxwjsfvwqrtb#6c59e0
+
+#3 https://www.overleaf.com/read/wbybkrsxzcrr#aab366
